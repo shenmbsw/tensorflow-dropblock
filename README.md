@@ -1,1 +1,1 @@
-An tensorflow implementation of dropblock
+A tensorflow version implementation of dropblock.
